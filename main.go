@@ -15,7 +15,7 @@ func isOdd(num int) (bool, error) {
 }
 
 func main(){
-    fmt.Println("START!!!")
+    fmt.Println("START!!")
 
     var value string
     fmt.Scan(&value)
